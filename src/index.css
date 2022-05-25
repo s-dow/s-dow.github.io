@@ -1,13 +1,63 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mountain {
+  background-image: url("./components/Projects/assets/mountain1.jpg");
+  background-position: center;
+  background-size: cover;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.whiteboard {
+  background-image: url("./components/Projects/assets/whiteboard.jpg");
+  background-size: cover;
+  overflow: hidden;
+}
+
+.profilePhoto {
+  background-image: url("./components/About/assets/profilePhoto.jpg");
+  background-size: cover;
+  overflow: hidden;
+}
+
+.ttIntro {
+  background-image: url("./components/Projects/assets/ttIntro.png");
+  background-size: cover;
+  overflow: hidden;
+}
+
+.ttLogo {
+  background-image: url("./components/Projects/assets/TTLogo.png");
+  background-size: cover;
+  overflow: hidden;
+}
+
+.acIntro {
+  background-image: url("./components/Projects/ac-assets/acIntro.png");
+  background-size: cover;
+  overflow: hidden;
+}
+
+.acp2 {
+  background-image: url("./components/Projects/ac-assets/acp2.png");
+  background-size: cover;
+  overflow: hidden;
+}
+
+.hs-whiteboard {
+  background-image: url("./components/Projects/hs-assets/hs-whiteboard.jpg");
+  background-size: cover;
+  overflow: hidden;
+}
+
+.hos {
+  background-image: url("./components/Projects/hs-assets/hos.JPG");
+  background-size: cover;
+  overflow: hidden;
+}
+
+.spotify {
+  background-image: url("./components/Projects/aur-assets/spotify.jpg");
+  background-size: cover;
+  overflow: hidden;
 }
