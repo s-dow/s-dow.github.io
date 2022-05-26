@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/s-dow.github.io/static/css/main.9179807a.css",
-    "main.js": "/s-dow.github.io/static/js/main.a5118ca0.js",
+    "main.css": "/s-dow.github.io/static/css/main.b8d84bfc.css",
+    "main.js": "/s-dow.github.io/static/js/main.c127d87f.js",
     "static/js/787.1aabafd9.chunk.js": "/s-dow.github.io/static/js/787.1aabafd9.chunk.js",
     "static/media/hs-whiteboard.jpg": "/s-dow.github.io/static/media/hs-whiteboard.a148326071fcd87a5b0c.jpg",
     "static/media/whiteboard.jpg": "/s-dow.github.io/static/media/whiteboard.e03301bc2dca48ca3915.jpg",
@@ -49,12 +49,12 @@
     "static/media/aritae.inline.svg": "/s-dow.github.io/static/media/aritae.inline.a4027a588037d8c3dfe3219228f83ef9.svg",
     "static/media/aritae-letters.inline.svg": "/s-dow.github.io/static/media/aritae-letters.inline.19885bd36aff78e5aaf2eb3ecf35df41.svg",
     "index.html": "/s-dow.github.io/index.html",
-    "main.9179807a.css.map": "/s-dow.github.io/static/css/main.9179807a.css.map",
-    "main.a5118ca0.js.map": "/s-dow.github.io/static/js/main.a5118ca0.js.map",
+    "main.b8d84bfc.css.map": "/s-dow.github.io/static/css/main.b8d84bfc.css.map",
+    "main.c127d87f.js.map": "/s-dow.github.io/static/js/main.c127d87f.js.map",
     "787.1aabafd9.chunk.js.map": "/s-dow.github.io/static/js/787.1aabafd9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9179807a.css",
-    "static/js/main.a5118ca0.js"
+    "static/css/main.b8d84bfc.css",
+    "static/js/main.c127d87f.js"
   ]
 }
