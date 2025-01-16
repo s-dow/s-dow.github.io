@@ -1,4 +1,4 @@
-import Resume from "../About/assets/Dow-Resume-2022.pdf";
+import Resume from "../About/assets/Dow_Resume_2024.pdf";
 
 export default function Contact() {
   return (
