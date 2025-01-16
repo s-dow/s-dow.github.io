@@ -39,7 +39,7 @@ export default function HelloSyr() {
               in Code bootcamp.
             </p>
             <p className="mt-4">
-              I was inspired to create Hello Syracuse because she wanted to help
+              I was inspired to create Hello Syracuse because I wanted to help
               answer the question, "What is there to do in Syracuse?", and I
               also wanted to shine a light on events in our community that were
               hard to find and aggregate those into one easily accessible place.

@@ -1,5 +1,5 @@
 import { NavLink as Link } from "react-router-dom";
-import Resume from "./assets/Dow-Resume-2022.pdf";
+import Resume from "./assets/Dow_Resume_2024.pdf";
 
 export default function About() {
   return (
@@ -15,18 +15,11 @@ export default function About() {
             <span className="font-light">About</span>
           </div>
           <p className="font-extralight">
-            I'm Sara, a software developer based in Syracuse, NY. I currently
-            work for{" "}
-            <span className="">
-              <a
-                className="underline underline-offset-2"
-                href="https://www.kirkwork.co"
-              >
-                Kirkwork
-              </a>
-            </span>
-            , a company that delivers custom software solutions for small and
-            medium-sized businesses.
+            Hi, I'm Sara. I'm a Senior Web Production Specialist based in
+            Syracuse, NY. I specialize in creating and maintaining engaging
+            fundraising and event websites for the non-profit sector. With
+            expertise in HTML, CSS, and content management systems, I ensure web
+            content is both accessible and user-friendly.
           </p>
           <br />
           <p className="font-extralight">
