@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/s-dow.github.io/static/css/main.b8d84bfc.css",
-    "main.js": "/s-dow.github.io/static/js/main.c127d87f.js",
+    "main.js": "/s-dow.github.io/static/js/main.e3ed2c3d.js",
     "static/js/787.1aabafd9.chunk.js": "/s-dow.github.io/static/js/787.1aabafd9.chunk.js",
     "static/media/hs-whiteboard.jpg": "/s-dow.github.io/static/media/hs-whiteboard.a148326071fcd87a5b0c.jpg",
     "static/media/whiteboard.jpg": "/s-dow.github.io/static/media/whiteboard.e03301bc2dca48ca3915.jpg",
@@ -38,10 +38,10 @@
     "static/media/aur2.jpg": "/s-dow.github.io/static/media/aur2.c120005a6ed122a4c42c.jpg",
     "static/media/tt4.jpg": "/s-dow.github.io/static/media/tt4.82812f0a8827210bafa9.jpg",
     "static/media/guidance-2.jpg": "/s-dow.github.io/static/media/guidance-2.492838f5234a4d57cc2e.jpg",
-    "static/media/Dow-Resume-2022.pdf": "/s-dow.github.io/static/media/Dow-Resume-2022.f93ce5b08967c336e19b.pdf",
     "static/media/guidance-3.jpg": "/s-dow.github.io/static/media/guidance-3.adfd288a4cbf4dca7d89.jpg",
     "static/media/mobile2.jpg": "/s-dow.github.io/static/media/mobile2.5d45d735453d4b8db34c.jpg",
     "static/media/mobile1.jpg": "/s-dow.github.io/static/media/mobile1.d39b7630eeadd7a6fe13.jpg",
+    "static/media/Dow_Resume_2024.pdf": "/s-dow.github.io/static/media/Dow_Resume_2024.eab6f8cd2f864c02008e.pdf",
     "static/media/mobile4.jpg": "/s-dow.github.io/static/media/mobile4.6f01b9dad8ebaf63805e.jpg",
     "static/media/mobile3.jpg": "/s-dow.github.io/static/media/mobile3.af7a31f5470c3c308993.jpg",
     "static/media/dashboard.png": "/s-dow.github.io/static/media/dashboard.520719821a3ae98ab3bc.png",
@@ -50,11 +50,11 @@
     "static/media/aritae-letters.inline.svg": "/s-dow.github.io/static/media/aritae-letters.inline.19885bd36aff78e5aaf2eb3ecf35df41.svg",
     "index.html": "/s-dow.github.io/index.html",
     "main.b8d84bfc.css.map": "/s-dow.github.io/static/css/main.b8d84bfc.css.map",
-    "main.c127d87f.js.map": "/s-dow.github.io/static/js/main.c127d87f.js.map",
+    "main.e3ed2c3d.js.map": "/s-dow.github.io/static/js/main.e3ed2c3d.js.map",
     "787.1aabafd9.chunk.js.map": "/s-dow.github.io/static/js/787.1aabafd9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8d84bfc.css",
-    "static/js/main.c127d87f.js"
+    "static/js/main.e3ed2c3d.js"
   ]
 }
